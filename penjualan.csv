@@ -1,0 +1,19 @@
+﻿Order No;Order Date;City;Customer_Type;Product_Name;Product_Category;Cost;Price;Sales;Revenue;COGS;Profit
+5014-1;26/05/2016;Jakarta;Home Office;Artisan Heavy-Duty EZD  Binder With Locking Rings;Office Supplies;52.800;83.700;29;2.427.300;1.531.200;896.100
+5016-1;26/05/2016;Jakarta;Home Office;DrawIt Pizazz Watercolor Pencils;Office Supplies;35.850;63.900;29;1.853.100;1.039.650;813.450
+5018-1;27/05/2016;Surabaya;Corporate;Message Book;Office Supplies;36.150;55.650;42;2.337.300;1.518.300;819.000
+5019-1;28/05/2016;Jakarta;Home Office;Cando S750 Color Inkjet Printer;Technology;1.125.000;1.814.550;6;10.887.300;6.750.000;4.137.300
+5020-1;29/05/2016;Surabaya;Consumer;Steady EarthWrite Recycled Pencils;Office Supplies;13.500;31.500;17;535.500;229.500;306.000
+5023-1;01/06/2016;Jakarta;Home Office;12 Colored Short Pencils;Office Supplies;16.350;39.000;47;1.833.000;768.450;1.064.550
+5024-1;02/06/2016;Jakarta;Corporate;Multimedia Mailers;Office Supplies;1.490.850;2.443.950;32;78.206.400;47.707.200;30.499.200
+5025-1;04/06/2016;Surabaya;Consumer;Pizazz Dustless Chalk Sticks;Office Supplies;16.350;25.200;33;831.600;539.550;292.050
+5036-1;19/06/2016;Jakarta;Corporate;OIC Thumb-Tacks;Office Supplies;10.650;17.100;50;855.000;532.500;322.500
+5045-1;08/07/2016;Surabaya;Consumer;UGen RF Keyboard;Technology;1.223.850;2.399.850;30;71.995.500;36.715.500;35.280.000
+5059-1;10/08/2016;Surabaya;Corporate;Beekin 105-Key Black Keyboard;Technology;95.850;299.700;7;2.097.900;670.950;1.426.950
+5060-1;12/08/2016;Jakarta;Corporate;Adesso Programmable 142-Key Keyboard;Technology;480.300;2.287.200;16;36.595.200;7.684.800;28.910.400
+5062-1;12/08/2016;Surabaya;Consumer;TechSavi Access Keyboard;Technology;151.050;239.700;39;9.348.300;5.890.950;3.457.350
+5095-1;01/09/2016;Surabaya;Corporate;Aluminum Document Frame;Furniture;82.500;183.300;35;6.415.500;2.887.500;3.528.000
+5215-1;02/12/2016;Surabaya;Home Office;3Max Polarizing Task Lamp with Clamp Arm;Furniture;842.400;2.054.700;41;84.242.700;34.538.400;49.704.300
+5307-1;28/02/2017;Surabaya;Consumer;Aluminum Document Frame;Furniture;82.500;183.300;27;4.949.100;2.227.500;2.721.600
+5319-1;07/03/2017;Surabaya;Consumer;3Max Polarizing Light Filter Sleeves;Furniture;170.700;279.750;19;5.315.250;3.243.300;2.071.950
+5369-1;24/04/2017;Jakarta;Small Business;3Max Polarizing Task Lamp with Clamp Arm;Furniture;842.400;2.054.700;18;36.984.600;15.163.200;21.821.400
